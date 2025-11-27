@@ -1,0 +1,94 @@
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="256"
+     height="256" viewBox="0 0 256 256" xml:space="preserve">
+<g style="stroke: none; stroke-width: 0; stroke-dasharray: none; stroke-linecap: butt; stroke-linejoin: miter; stroke-miterlimit: 10; fill: none; fill-rule: nonzero; opacity: 1;"
+   transform="translate(1.4065934065934016 1.4065934065934016) scale(2.81 2.81)">
+    <!-- Original tree trunk -->
+    <path
+        d="M 36.717 90 h 17.786 c -3.688 -3.683 -3.603 -9.403 -3.627 -15.108 l 0 0 c 0.223 -6.449 2.375 -13.838 3.337 -21.428 l -2.278 -0.206 c -0.421 3.709 -1.478 7.201 -2.758 10.155 c -1.933 -4.69 -3.368 -7.247 -3.516 -12.666 h -1.608 c -0.749 4.365 -0.278 8.941 1.608 13.76 c -2.931 -4.097 -6.019 -7.1 -9.292 -8.813 l -1.659 1.674 c 4.013 2.908 7.848 8.641 7.499 15.218 C 42.208 80.466 41.172 85.438 36.717 90 z"
+        style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-linejoin: miter; stroke-miterlimit: 10; fill: rgb(180,103,51); fill-rule: nonzero; opacity: 1;"
+        transform=" matrix(1 0 0 1 0 0) " stroke-linecap="round"/>
+    <!-- Intense Minecraft-style cracks -->
+    <g style="opacity: 0.85">
+        <!-- Major crack network through leaves -->
+        <path d="M 45 20 l 5 8 l -3 4 l 6 5 l -4 6"
+              style="stroke: rgba(0,0,0,0.5); stroke-width: 3; fill: none"/>
+        <path d="M 35 25 l -4 6 l 3 4 l -5 3"
+              style="stroke: rgba(0,0,0,0.5); stroke-width: 3; fill: none"/>
+        <path d="M 55 28 l 6 4 l -3 5 l 4 3"
+              style="stroke: rgba(0,0,0,0.5); stroke-width: 3; fill: none"/>
+
+        <!-- Extended cracks through trunk -->
+        <path d="M 45 40 l -3 10 l 5 8 l -4 12 l 6 10"
+              style="stroke: rgba(0,0,0,0.5); stroke-width: 3; fill: none"/>
+        <path d="M 35 45 l 4 15 l -3 10 l 5 12"
+              style="stroke: rgba(0,0,0,0.5); stroke-width: 3; fill: none"/>
+        <path d="M 50 42 l 2 13 l -4 15 l 3 8"
+              style="stroke: rgba(0,0,0,0.5); stroke-width: 3; fill: none"/>
+
+        <!-- Dense crack network in leaves -->
+        <path d="M 40 15 l 3 4 l -2 3 l 4 2 l -3 4 l 5 3"
+              style="stroke: rgba(0,0,0,0.4); stroke-width: 2; fill: none"/>
+        <path d="M 50 18 l -4 5 l 3 3 l -5 4 l 2 3"
+              style="stroke: rgba(0,0,0,0.4); stroke-width: 2; fill: none"/>
+        <path d="M 30 28 l 4 3 l -3 4 l 5 2 l -2 3"
+              style="stroke: rgba(0,0,0,0.4); stroke-width: 2; fill: none"/>
+        <path d="M 60 25 l -3 4 l 2 3 l -4 3"
+              style="stroke: rgba(0,0,0,0.4); stroke-width: 2; fill: none"/>
+
+        <!-- Dense crack network in trunk -->
+        <path d="M 38 50 l 2 5 l -3 4 l 4 6"
+              style="stroke: rgba(0,0,0,0.4); stroke-width: 2; fill: none"/>
+        <path d="M 45 55 l -2 7 l 3 5 l -4 8"
+              style="stroke: rgba(0,0,0,0.4); stroke-width: 2; fill: none"/>
+        <path d="M 42 70 l 3 6 l -2 5 l 4 4"
+              style="stroke: rgba(0,0,0,0.4); stroke-width: 2; fill: none"/>
+
+        <!-- Spider web-like cracks throughout -->
+        <path d="M 40 20 l 2 2 l -1 2 l 2 1 m -4 -3 l 1 2 l -2 1"
+              style="stroke: rgba(0,0,0,0.3); stroke-width: 1; fill: none"/>
+        <path d="M 50 22 l -2 2 l 1 2 l -2 1 m 4 -3 l -1 2 l 2 1"
+              style="stroke: rgba(0,0,0,0.3); stroke-width: 1; fill: none"/>
+        <path d="M 43 60 l 2 2 l -1 2 l 2 1 m -4 -3 l 1 2 l -2 1"
+              style="stroke: rgba(0,0,0,0.3); stroke-width: 1; fill: none"/>
+        <path d="M 47 75 l -2 2 l 1 2 l -2 1 m 4 -3 l -1 2 l 2 1"
+              style="stroke: rgba(0,0,0,0.3); stroke-width: 1; fill: none"/>
+
+        <!-- Particle effects throughout -->
+        <g style="fill: rgba(0,0,0,0.4)">
+            <!-- Upper particles -->
+            <circle cx="43" cy="28" r="1"/>
+            <circle cx="48" cy="35" r="1"/>
+            <circle cx="52" cy="25" r="1"/>
+            <circle cx="38" cy="32" r="1"/>
+            <circle cx="45" cy="30" r="1"/>
+            <!-- Middle particles -->
+            <circle cx="41" cy="50" r="1"/>
+            <circle cx="46" cy="45" r="1"/>
+            <circle cx="39" cy="55" r="1"/>
+            <circle cx="44" cy="60" r="1"/>
+            <!-- Lower particles -->
+            <circle cx="42" cy="70" r="1"/>
+            <circle cx="47" cy="75" r="1"/>
+            <circle cx="40" cy="80" r="1"/>
+            <circle cx="45" cy="85" r="1"/>
+            <!-- Small debris throughout -->
+            <circle cx="44" cy="33" r="0.5"/>
+            <circle cx="49" cy="31" r="0.5"/>
+            <circle cx="42" cy="65" r="0.5"/>
+            <circle cx="47" cy="58" r="0.5"/>
+            <circle cx="41" cy="77" r="0.5"/>
+            <circle cx="46" cy="82" r="0.5"/>
+        </g>
+
+        <!-- Deep fractures throughout -->
+        <path d="M 35 20 l 25 25"
+              style="stroke: rgba(0,0,0,0.6); stroke-width: 2.5; fill: none"/>
+        <path d="M 55 20 l -25 25"
+              style="stroke: rgba(0,0,0,0.6); stroke-width: 2.5; fill: none"/>
+        <path d="M 40 45 l 15 35"
+              style="stroke: rgba(0,0,0,0.6); stroke-width: 2.5; fill: none"/>
+        <path d="M 45 45 l -10 40"
+              style="stroke: rgba(0,0,0,0.6); stroke-width: 2.5; fill: none"/>
+    </g>
+</g>
+</svg>

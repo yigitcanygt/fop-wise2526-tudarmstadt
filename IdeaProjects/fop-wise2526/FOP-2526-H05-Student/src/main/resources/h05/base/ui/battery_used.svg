@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="100" height="40" viewBox="0 0 100 40" xmlns="http://www.w3.org/2000/svg">
+    <!-- Battery outline -->
+    <rect x="2" y="10" width="90" height="20" rx="3" ry="3" fill="none" stroke="#000" stroke-width="2"/>
+
+    <!-- Battery terminal -->
+    <rect x="92" y="15" width="6" height="10" rx="1" ry="1" fill="#000"/>
+
+    <!-- Charge bars -->
+    <rect x="6" y="14" width="12" height="12" fill="#76ff03"/>
+    <rect x="20" y="14" width="12" height="12" fill="#76ff03"/>
+    <rect x="34" y="14" width="12" height="12" fill="#76ff03"/>
+    <rect x="48" y="14" width="12" height="12" fill="#76ff03"/>
+
+    <!-- Empty bars -->
+    <rect x="62" y="14" width="12" height="12" fill="#e0e0e0"/>
+    <rect x="76" y="14" width="12" height="12" fill="#e0e0e0"/>
+</svg>

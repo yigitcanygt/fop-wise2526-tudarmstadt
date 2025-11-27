@@ -1,0 +1,21 @@
+<svg width="64" height="64" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg" shape-rendering="crispEdges">
+    <!-- Body -->
+    <rect x="20" y="16" width="24" height="32" fill="#333"/>
+
+    <!-- Damaged screen -->
+    <rect x="24" y="20" width="16" height="4" fill="#105090"/>
+
+    <!-- Partially working LEDs -->
+    <rect x="26" y="26" width="2" height="2" fill="#44aa44"/>
+    <rect x="29" y="26" width="2" height="2" fill="#000"/>
+    <rect x="32" y="26" width="2" height="2" fill="#44aa44"/>
+
+    <!-- USB ports -->
+    <rect x="22" y="14" width="4" height="2" fill="#222"/>
+    <rect x="30" y="14" width="4" height="2" fill="#111"/>
+    <rect x="38" y="14" width="4" height="2" fill="#111"/>
+
+    <!-- Crack -->
+    <rect x="36" y="28" width="2" height="2" fill="#000"/>
+    <rect x="34" y="30" width="2" height="2" fill="#000"/>
+</svg>
