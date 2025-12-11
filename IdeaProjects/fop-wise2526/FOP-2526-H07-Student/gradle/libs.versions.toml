@@ -1,0 +1,2 @@
+[plugins]
+algomate = { id = "org.tudalgo.algomate", version = "0.7.1" }
