@@ -1,0 +1,38 @@
+[
+  {
+    "title": "FOP - how to",
+    "input": [
+      "FOP - how to",
+      "The history of Sprechi",
+      "Deep dive into fopbot",
+      "Hier könnte Ihre Werbung stehen!"
+    ],
+    "output": true
+  },
+  {
+    "title": "FOP - how to",
+    "input": [
+      "The history of Sprechi",
+      "Deep dive into fopbot",
+      "Hier könnte Ihre Werbung stehen!"
+    ],
+    "output": false
+  },
+  {
+    "title": "FOP - how to",
+    "input": [
+      "FOP - how to"
+    ],
+    "output": true
+  },
+  {
+    "title": "FOP - how to",
+    "input": [],
+    "output": false
+  },
+  {
+    "title": "",
+    "input": [],
+    "output": false
+  }
+]

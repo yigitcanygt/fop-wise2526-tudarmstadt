@@ -1,0 +1,79 @@
+[
+  {
+    "duration": 30,
+    "input": [
+      {
+        "title": "FOP - how to",
+        "uploader": "Franzi",
+        "duration": 120,
+        "isPublic": true
+      }
+    ],
+    "output": [
+      "FOP - how to"
+    ]
+  },
+  {
+    "duration": 100,
+    "input": [
+      {
+        "title": "FOP - how to",
+        "uploader": "Franzi",
+        "duration": 120,
+        "isPublic": true
+      },
+      {
+        "title": "The history of Sprechi",
+        "uploader": "Omar",
+        "duration": 90,
+        "isPublic": true
+      }
+    ],
+    "output": [
+      "FOP - how to"
+    ]
+  },
+  {
+    "duration": 120,
+    "input": [
+      {
+        "title": "FOP - how to",
+        "uploader": "Franzi",
+        "duration": 120,
+        "isPublic": true
+      },
+      {
+        "title": "The history of Sprechi",
+        "uploader": "Omar",
+        "duration": 90,
+        "isPublic": true
+      }
+    ],
+    "output": [
+      "FOP - how to"
+    ]
+  },
+  {
+    "duration": 150,
+    "input": [
+      {
+        "title": "FOP - how to",
+        "uploader": "Franzi",
+        "duration": 120,
+        "isPublic": true
+      },
+      {
+        "title": "The history of Sprechi",
+        "uploader": "Omar",
+        "duration": 90,
+        "isPublic": true
+      }
+    ],
+    "output": []
+  },
+  {
+    "duration": 0,
+    "input": [],
+    "output": []
+  }
+]

@@ -1,0 +1,48 @@
+[
+  {
+    "start": 0,
+    "end": 1000,
+    "input": {
+      "Franzi": 123,
+      "Omar": 1000,
+      "Peter": 2000
+    },
+    "output": [
+      "Franzi"
+    ]
+  },
+  {
+    "start": 0,
+    "end": 10000,
+    "input": {
+      "Franzi": 123,
+      "Omar": 1000,
+      "Peter": 2000
+    },
+    "output": [
+      "Franzi",
+      "Omar",
+      "Peter"
+    ]
+  },
+  {
+    "start": 0,
+    "end": 0,
+    "input": {
+      "Franzi": 123,
+      "Omar": 1000,
+      "Peter": 2000
+    },
+    "output": []
+  },
+  {
+    "start": 1000,
+    "end": 0,
+    "input": {
+      "Franzi": 123,
+      "Omar": 1000,
+      "Peter": 2000
+    },
+    "output": []
+  }
+]

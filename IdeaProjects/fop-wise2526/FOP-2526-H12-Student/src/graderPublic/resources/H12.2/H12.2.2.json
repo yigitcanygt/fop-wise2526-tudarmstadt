@@ -1,0 +1,92 @@
+[
+  {
+    "input": [
+      {
+        "title": "FOP - how to",
+        "uploader": "Franzi",
+        "duration": 60,
+        "isPublic": true
+      }
+    ],
+    "output": 1
+  },
+  {
+    "input": [
+      {
+        "title": "FOP - how to",
+        "uploader": "Franzi",
+        "duration": 60,
+        "isPublic": true
+      },
+      {
+        "title": "The history of Sprechi",
+        "uploader": "Omar",
+        "duration": 3000,
+        "isPublic": false
+      }
+    ],
+    "output": 1
+  },
+  {
+    "input": [
+      {
+        "title": "FOP - how to",
+        "uploader": "Franzi",
+        "duration": 60,
+        "isPublic": true
+      },
+      {
+        "title": "The history of Sprechi",
+        "uploader": "Omar",
+        "duration": 3000,
+        "isPublic": true
+      },
+      {
+        "title": "Deep dive into fopbot",
+        "uploader": "Peter",
+        "duration": 7200,
+        "isPublic": true
+      },
+      {
+        "title": "Hier könnte Ihre Werbung stehen!",
+        "uploader": "Sprechi",
+        "duration": 5,
+        "isPublic": true
+      }
+    ],
+    "output": 4
+  },
+  {
+    "input": [
+      {
+        "title": "FOP - how to",
+        "uploader": "Franzi",
+        "duration": 60,
+        "isPublic": false
+      },
+      {
+        "title": "The history of Sprechi",
+        "uploader": "Omar",
+        "duration": 3000,
+        "isPublic": false
+      },
+      {
+        "title": "Deep dive into fopbot",
+        "uploader": "Peter",
+        "duration": 7200,
+        "isPublic": false
+      },
+      {
+        "title": "Hier könnte Ihre Werbung stehen!",
+        "uploader": "Sprechi",
+        "duration": 5,
+        "isPublic": false
+      }
+    ],
+    "output": 0
+  },
+  {
+    "input": [],
+    "output": 0
+  }
+]

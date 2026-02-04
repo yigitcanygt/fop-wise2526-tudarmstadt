@@ -1,0 +1,61 @@
+[
+  {
+    "month": "NOVEMBER",
+    "count": 2,
+    "input": {
+      "Franzi": "2026-11-17T12:00:00",
+      "Omar": "2026-11-17T13:00:00",
+      "Peter": "2026-10-31T23:59:59"
+    },
+    "output": [
+      "Franzi",
+      "Omar"
+    ]
+  },
+  {
+    "month": "OCTOBER",
+    "count": 1,
+    "input": {
+      "Franzi": "2026-11-17T12:00:00",
+      "Omar": "2026-11-17T13:00:00",
+      "Peter": "2026-10-31T23:59:59"
+    },
+    "output": [
+      "Peter"
+    ]
+  },
+  {
+    "month": "OCTOBER",
+    "count": 10,
+    "input": {
+      "Franzi": "2026-11-17T12:00:00",
+      "Omar": "2026-11-17T13:00:00",
+      "Peter": "2026-10-31T23:59:59"
+    },
+    "output": [
+      "Peter"
+    ]
+  },
+  {
+    "month": "OCTOBER",
+    "count": 0,
+    "input": {
+      "Franzi": "2026-11-17T12:00:00",
+      "Omar": "2026-11-17T13:00:00",
+      "Peter": "2026-10-31T23:59:59"
+    },
+    "output": []
+  },
+  {
+    "month": "NOVEMBER",
+    "count": 1,
+    "input": {
+      "Franzi": "2026-11-17T12:00:00",
+      "Omar": "2026-11-17T13:00:00",
+      "Peter": "2026-10-31T23:59:59"
+    },
+    "output": [
+      "Omar"
+    ]
+  }
+]
